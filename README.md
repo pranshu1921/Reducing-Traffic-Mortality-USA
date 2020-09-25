@@ -1,6 +1,6 @@
 # Reducing-Traffic-Mortality-USA
 
-We analyze data collected by the _**National Highway Traffic Safety Administration**_ and _**the National Association of Insurance Commissioners**_ to wrangle, plot, dimensionally reduce and cluster data to make an attempt to find patterns and help in _**reducing Traffic Mortality in USA**_.
+We analyze data collected by the _**National Highway Traffic Safety Administration**_ and _**the National Association of Insurance Commissioners**_ to wrangle, plot, dimensionally reduce and cluster data to make an attempt to find patterns and help _**reduce Traffic Mortality in USA**_.
 
 
 ## Table of contents
